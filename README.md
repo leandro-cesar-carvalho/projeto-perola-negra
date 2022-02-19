@@ -19,8 +19,6 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-<p> Mobile Simulation </p><br>
+<p> Mobile Simulation <a href="https://1drv.ms/v/s!Al_QdsGsazh7gpM-vP1KYb1M1aa-Kw?e=MHcQMa">here</a></p><br>
 
-<video width="360" height="640" controls>
-<source src="https://1drv.ms/v/s!Al_QdsGsazh7gpM-vP1KYb1M1aa-Kw?e=MHcQMa" type="video/mp4">
-</video>
+
