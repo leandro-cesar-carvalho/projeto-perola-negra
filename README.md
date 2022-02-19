@@ -1,7 +1,7 @@
 # projeto_pnegra
 <h1>Barbershop System - Schedule and Services - Barbearia Perola Negra</h1>
 
-<p>Barbershop system which the customers can find some information of the barber, services, locations and other topics.</p>
+<p>Barbershop system which the customers can find some information about the barber, services, locations and other topics.</p>
 <p>Through the website, customers can schedule for some services that is made by the owner of the barbershop, such as:</p>
 <ul>
   <li>Haircut</li>
