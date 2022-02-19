@@ -22,4 +22,6 @@
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
+<br><br>
+
 <p>I'm still working for new updates in the project</p>
