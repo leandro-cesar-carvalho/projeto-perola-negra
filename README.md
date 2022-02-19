@@ -24,4 +24,4 @@
 
 <br><br>
 
-<p>I'm still working for new updates in the project</p>
+<p>I'm still working for new updates in this project</p>
