@@ -5,7 +5,7 @@
 <p>Through the website, customers can schedule for some services that is made by the owner of the barbershop, such as:</p>
 <ul>
   <li>Haircut</li>
-  <li>Barber</li>
+  <li>Beard</li>
  </ul>
  
 <h2>Simulation Videos:</h2>
