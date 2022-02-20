@@ -1,5 +1,5 @@
 <template>
-    <section id="principal">
+    <section id="principal" data-aos="fade-left">
 
         <video controls class="home-video" loop>
             <source :src="require('@/assets/videos/main.mp4')" type="video/mp4">

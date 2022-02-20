@@ -1,6 +1,5 @@
 <template>
   <router-view/>
-  <!-- <router-link to="/about">About</router-link> -->
 </template>
 
 <style>
@@ -13,3 +12,4 @@ html {
 	background-color:#1d2327;
 }
 </style>
+

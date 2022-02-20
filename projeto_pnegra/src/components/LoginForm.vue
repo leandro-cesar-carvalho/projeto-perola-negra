@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div data-aos="zoom-in-up">
         <form action="http://192.168.0.6:2022/busca-usuario" method="POST">
             <img :src="require('@/assets/images/logo2.png')" alt="Logo">
             <h1>Agendamento de horário - Login</h1>

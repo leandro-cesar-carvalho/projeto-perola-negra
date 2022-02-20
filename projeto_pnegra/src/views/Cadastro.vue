@@ -6,6 +6,11 @@
 </template>
 
 <script>
+import AOS from 'aos';
+import 'aos/dist/aos.css'
+
+AOS.init();
+
 import RegisterForm from '@/components/RegisterForm.vue'
 
 export default {

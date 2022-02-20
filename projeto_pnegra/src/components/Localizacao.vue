@@ -1,5 +1,5 @@
 <template>
-    <section id="local">
+    <section id="local" data-aos="fade-right">
         <h1>Localização</h1>
         <div class="mapa">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3679.6936540604406!2d-47.62515228554374!3d-22.739625137643227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c631aec74c7375%3A0xdb64f11e5d3594c8!2sBarbearia%20Perola%20Negra!5e0!3m2!1spt-BR!2sbr!4v1642218630117!5m2!1spt-BR!2sbr" allowfullscreen="" loading="lazy"></iframe>

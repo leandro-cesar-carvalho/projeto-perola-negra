@@ -4,6 +4,11 @@
 </template>
 
 <script>
+import AOS from 'aos';
+import 'aos/dist/aos.css'
+
+AOS.init();
+
 import LoginForm from '@/components/LoginForm.vue'
 
 export default {
