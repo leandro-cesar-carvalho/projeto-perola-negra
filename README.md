@@ -7,10 +7,6 @@
   <li>Haircut</li>
   <li>Beard</li>
  </ul>
- 
-<h2>Simulation Videos:</h2>
-<p> Mobile Simulation <a href="https://1drv.ms/v/s!Al_QdsGsazh7gpM-vP1KYb1M1aa-Kw?e=MHcQMa">here</a></p>
-<p> Desktop Simulation <a href="https://1drv.ms/v/s!Al_QdsGsazh7gpM8s--em5Id7klhCw?e=N04Kfp">here</a></p>
 
 <h3>Skills that were used during the development</h3>
 <div style="display: inline_block"><br>
